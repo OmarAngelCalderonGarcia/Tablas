@@ -1,0 +1,25 @@
+table,
+th,
+td {
+    border: 2px solid blue;
+    border-collapse: collapse;
+}
+
+table {
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+caption {
+    font-weight: bold;
+    font-size: large;
+    margin-bottom: 10px;
+}
+
+.ajuste {
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    width: 200px;
+}
